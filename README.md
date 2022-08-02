@@ -1,2 +1,0 @@
-# ParamAssignment2
-java
